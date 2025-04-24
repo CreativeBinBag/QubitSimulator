@@ -1,0 +1,1 @@
+This project implements a Python class to simulate a single qubit represented by a real-valued angle on the unit circle. It demonstrates core concepts like rotation, reflection, measurement, and basis changes through interactive methods and matplotlib visualizations, without using external quantum or scientific libraries.
